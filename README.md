@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active-Directory-Home-Lab-VirtualBox](https://github.com/JUST-JACk91/Active-Directory-Home-Lab-VirtualBox/tree/main)
+- [SIEM-Microsoft-Azure-Lab](https://github.com/JUST-JACk91/SIEM---Microsoft-Azure-Project)
  
 
 <h2> Certifications </h2>
